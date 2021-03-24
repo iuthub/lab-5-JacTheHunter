@@ -1,0 +1,5 @@
+akmal;#002;123124324;Visa
+khodjimurat;#001;23455324;Visa
+laziz;#003;23455324;Master Card
+musayev;#001;126445;Visa
+musayevggg;#001;126445;Visa
